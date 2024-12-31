@@ -47,16 +47,6 @@
 2. Share the `.zip` file with the Procura Bico app.
 3. Use the provided controls to split and clean the chat messages.
 
-## Screenshots
-
-*(Include screenshots here to show the app in action.)*
-
-## Future Improvements
-
-- Support for additional file formats.
-- Advanced filtering options with regex support.
-- Exporting processed chats as new text files.
-
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
