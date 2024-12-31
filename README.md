@@ -1,6 +1,6 @@
-# Chat Processor
+# Procura Bico 
 
-**Chat Processor** is a Flutter app designed to help users process WhatsApp chat exports shared as `.zip` files. It supports splitting chats based on a delimiter and deleting messages based on specific criteria.
+**Procura Bico** is a Flutter app designed to help users process WhatsApp chat exports shared as `.zip` files. It supports splitting chats based on a delimiter and deleting messages based on specific criteria.
 
 ## Features
 
@@ -44,7 +44,7 @@
 ## Usage
 
 1. Export a WhatsApp chat as `.zip` (including media is optional).
-2. Share the `.zip` file with the Chat Processor app.
+2. Share the `.zip` file with the Procura Bico app.
 3. Use the provided controls to split and clean the chat messages.
 
 ## Screenshots
